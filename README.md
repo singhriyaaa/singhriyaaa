@@ -74,17 +74,6 @@ Segmented customers based on purchasing behavior using K-Means clustering. Appli
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=singhriyaaa&show_icons=true&theme=dark&bg_color=0f2027&title_color=a8d8ea&icon_color=a8d8ea&text_color=ffffff&border_color=2c5364&hide_border=false&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhriyaaa&layout=compact&theme=dark&bg_color=0f2027&title_color=a8d8ea&text_color=ffffff&border_color=2c5364&hide_border=false" />
-
-</div>
-
-<div align="center">
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=singhriyaaa&theme=dark&background=0f2027&ring=a8d8ea&fire=a8d8ea&currStreakLabel=a8d8ea&border=2c5364&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff)
 
 </div>
