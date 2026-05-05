@@ -72,10 +72,6 @@ ML-powered web app that predicts user spending patterns by category and date, co
 Segmented customers based on purchasing behavior using K-Means clustering. Applied PCA for dimensionality reduction, handled outliers, and identified high-value customer groups with actionable marketing insights.
 `Python` `K-Means` `PCA` `scikit-learn` `EDA` `Feature Engineering`
 
----
-
-![GitHub Streak](https://streak-stats.demolab.com?user=singhriyaaa&theme=dark&background=0f2027&ring=a8d8ea&fire=a8d8ea&currStreakLabel=a8d8ea&border=2c5364&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff)
-
 </div>
 
 ---
